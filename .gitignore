@@ -1,0 +1,11 @@
+.venv/
+.idea/
+.agents/
+.codex/
+.junie/
+.ipynb_checkpoints/
+.virtual_documents/
+__pycache__/
+*.pyc
+*.pyo
+logs/

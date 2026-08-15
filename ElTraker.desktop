@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=El Traker
+Comment=Registro de tiempo pomodoro
+Exec=python3 /home/emilio/Documentos/El_Traker_Emo/el_traker.py
+Path=/home/emilio/Documentos/El_Traker_Emo
+Icon=clock
+Terminal=false
+StartupNotify=true
+Categories=Utility;Productivity;
